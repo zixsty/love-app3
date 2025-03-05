@@ -95,7 +95,7 @@ button:hover {
 html, body {
     height: 100%; /* Asigură că body-ul ocupă întreaga înălțime */
 }#responses {
-    color: black;
+    color: white;
 }
 
 
